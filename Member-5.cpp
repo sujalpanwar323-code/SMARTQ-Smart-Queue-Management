@@ -1,5 +1,5 @@
 // SMARTQ - assigned code extracted from the original project src/main.cpp
-// This is a contribution file for integration, not a standalone executable.
+// This is  contribution file for integration, not a standalone executable.
 
 static bool inputEnded = false;
 static string input(const string &prompt)
